@@ -3698,7 +3698,3 @@ breathe. I can't breathe.
 
 THE END
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`))
-/*
-remevendo o erro
-.catch(console.error)
-*/
